@@ -12,4 +12,11 @@ namespace Cherednichenko402_Test_PR2_MathTask
         {
         }
     }
+    public class Geometry
+    {
+        public int RectangleArea(int a, int b)
+        {
+            return a * b;
+        }
+    }
 }
