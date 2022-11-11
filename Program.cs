@@ -16,7 +16,8 @@ namespace Cherednichenko402_Test_PR2_MathTask
     {
         public int RectangleArea(int a, int b)
         {
-            return a * b + 10;
+            return a * b;
         }
     }
+
 }
