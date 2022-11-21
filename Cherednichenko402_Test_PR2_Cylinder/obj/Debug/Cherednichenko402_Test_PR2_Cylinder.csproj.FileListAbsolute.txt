@@ -1,0 +1,8 @@
+D:\VS\Cherednichenko402_Test_PR2_Cylinder\bin\Debug\Cherednichenko402_Test_PR2_Cylinder.exe.config
+D:\VS\Cherednichenko402_Test_PR2_Cylinder\bin\Debug\Cherednichenko402_Test_PR2_Cylinder.exe
+D:\VS\Cherednichenko402_Test_PR2_Cylinder\bin\Debug\Cherednichenko402_Test_PR2_Cylinder.pdb
+D:\VS\Cherednichenko402_Test_PR2_Cylinder\obj\Debug\Cherednichenko402_Test_PR2_Cylinder.csproj.AssemblyReference.cache
+D:\VS\Cherednichenko402_Test_PR2_Cylinder\obj\Debug\Cherednichenko402_Test_PR2_Cylinder.csproj.SuggestedBindingRedirects.cache
+D:\VS\Cherednichenko402_Test_PR2_Cylinder\obj\Debug\Cherednichenko402_Test_PR2_Cylinder.csproj.CoreCompileInputs.cache
+D:\VS\Cherednichenko402_Test_PR2_Cylinder\obj\Debug\Cherednichenko402_Test_PR2_Cylinder.exe
+D:\VS\Cherednichenko402_Test_PR2_Cylinder\obj\Debug\Cherednichenko402_Test_PR2_Cylinder.pdb
